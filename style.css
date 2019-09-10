@@ -1,0 +1,21 @@
+html{
+    height: 100%;
+}
+body{
+    background-image:url(background1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size:cover;
+}
+.main_div{
+    height: 100%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.go_go_register{
+    flex-direction: row;
+    display: flex;
+}
